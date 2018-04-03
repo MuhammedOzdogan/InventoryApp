@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="background_material_light">#fff8e6</color>
+    <color name="primary">#F44336</color>
+    <color name="primaryDark">#D32F2F</color>
+    <color name="accent">#4CAF50</color>
+    <color name="sell_color">#ff7307</color>
+    <color name="buttonNormal">#ffa007</color>
+    <color name="highlight">#07ff3d</color>
+    <color name="backgroundList">#E0E0D1</color>
+</resources>

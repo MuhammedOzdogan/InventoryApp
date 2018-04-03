@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:orientation="vertical"
+        android:id="@+id/empty_layout"
+        android:layout_centerInParent="true"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/empty_image"
+        app:srcCompat="@drawable/ic_if_cart"
+        android:layout_margin="4dp"
+        android:layout_centerInParent="true"
+        android:layout_width="192dp"
+        android:layout_height="192dp" />
+
+        <TextView
+            android:id="@+id/empty_text_view"
+            android:layout_below="@id/empty_image"
+            android:layout_margin="4dp"
+            android:layout_centerHorizontal="true"
+            android:textAppearance="?android:textAppearanceMedium"
+            android:textStyle="italic"
+            android:text="@string/empty_view_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_centerHorizontal="true"
+            android:id="@+id/empty_hint_text_view"
+            android:layout_below="@id/empty_text_view"
+            android:layout_margin="4dp"
+            android:textAppearance="?android:textAppearanceSmall"
+            android:text="@string/empty_view_subtitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+
+
+
+</RelativeLayout>

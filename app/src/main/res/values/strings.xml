@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Inventory App</string>
+    <string name="title_activity_editor">EditorActivity</string>
+    <string name="price">Price : %1$d TL</string>
+    <string name="quantity">Quantity : %1$d</string>
+    <string name="supplier">Supplier : %1$s</string>
+    <string name="deletion_failed">Deletion process failed.</string>
+    <string name="deletion_successful">Product successful deleted.</string>
+    <string name="leave_editor">Leave Editor</string>
+    <string name="changes_not_saved">Changes are not saved</string>
+    <string name="discard">DISCARD</string>
+    <string name="cancel">CANCEL</string>
+    <string name="title_sanity">Please enter a valid product title.</string>
+    <string name="price_sanity">Please enter a valid product price.</string>
+    <string name="supplier_sanity">Please enter product supplier information.</string>
+    <string name="photo_sanity">Please take photo of production to save.</string>
+    <string name="save_failed">Save process failed.</string>
+    <string name="save_successful">Product successfully saved.</string>
+    <string name="all_deleted">All products are deleted</string>
+    <string name="selling_failed">Selling process failed.</string>
+    <string name="have_a_nice_day">Have a nice day.</string>
+    <string name="title">Title :</string>
+    <string name="text_view_price">Price :</string>
+    <string name="edit_text_title">Title</string>
+    <string name="edit_text_price">Price</string>
+    <string name="currency">TL</string>
+    <string name="text_view_quantity">Quantity :</string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+    <string name="text_view_supplier">Supplier :</string>
+    <string name="edit_view_supplier">Supplier</string>
+    <string name="order_button">order</string>
+    <string name="empty_view_title">Your store is empty...</string>
+    <string name="empty_view_subtitle">Try to add some new product.</string>
+    <string name="sell_button">SELL</string>
+    <string name="menu_done">Done</string>
+    <string name="menu_delete">Delete</string>
+    <string name="menu_delete_all">Delete All</string>
+
+</resources>
