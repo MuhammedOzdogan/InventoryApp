@@ -15,4 +15,3 @@ And lastly a basic CursorAdapter with ListView.
 
 
 
-![Uploading Screenshot_2018-04-03-01-46-06.png…]()
